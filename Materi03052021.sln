@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Materi03052021", "Materi03052021\Materi03052021.csproj", "{B598E425-B368-409E-96E1-A555E40C0497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B598E425-B368-409E-96E1-A555E40C0497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B598E425-B368-409E-96E1-A555E40C0497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B598E425-B368-409E-96E1-A555E40C0497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B598E425-B368-409E-96E1-A555E40C0497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0CFFCA9-801C-4FB3-B913-9D78B991A2A2}
+	EndGlobalSection
+EndGlobal

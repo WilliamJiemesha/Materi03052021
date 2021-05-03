@@ -1,0 +1,15 @@
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\bin\Debug\Materi03052021.exe.config
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\bin\Debug\Materi03052021.exe
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\bin\Debug\Materi03052021.pdb
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\bin\Debug\MySql.Data.dll
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\bin\Debug\Renci.SshNet.dll
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.csprojAssemblyReference.cache
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.teamEditor.resources
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.Properties.Resources.resources
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.csproj.GenerateResource.cache
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.csproj.CoreCompileInputs.cache
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.csproj.CopyComplete
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.exe
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.pdb
+C:\Users\jieme\source\repos\Materi03052021\Materi03052021\obj\Debug\Materi03052021.EditPlayerInfo.resources
