@@ -24,7 +24,6 @@ namespace Materi03052021
             //Prepare SQL Functions
             string connString = "datasource=localhost;port=3306;username=root;password=;database=premier_league";
             string sqlQuery;
-            string tambahanAjaSih;
             sqlFunc = new sqlFunction(connString);            
         }        
 
